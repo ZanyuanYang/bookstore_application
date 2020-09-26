@@ -1,1 +1,1 @@
-# bookstore_application
+# pyinstall--onefile --windowed frontend.py
