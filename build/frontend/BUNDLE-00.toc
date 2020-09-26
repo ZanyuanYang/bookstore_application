@@ -1,0 +1,4 @@
+([('frontend',
+   '/Users/jayingyoung/Desktop/code/The Python Mega Build 10 Real World '
+   'Applications/Application4_bookstore/dist/frontend',
+   'EXECUTABLE')],)
